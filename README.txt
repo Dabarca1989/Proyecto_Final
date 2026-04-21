@@ -8,3 +8,11 @@ INSTRUCCIONES PARA EJECUTAR EL PROGRAMA:
 6. Revisar que Web.config use:
    Data Source=.\SQLEXPRESS;Initial Catalog=SistemaReparaciones;Integrated Security=True
 7. Ejecutar el proyecto
+
+Este proyecto fue desarollado por los siguientes estudiantes:
+Yendry Céspedes.
+Maikel Guerra.
+Rodolfo Carmona.
+Roy Saenz.
+Steven
+David Abarca.
